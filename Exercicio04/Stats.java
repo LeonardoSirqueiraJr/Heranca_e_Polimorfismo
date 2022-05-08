@@ -1,14 +1,10 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
 package Exercicio04;
 
-/**
- *
- * @author Aluno
- */
 public class Stats {
-    
+    protected float HP;
+    protected float atk;
+    protected float def;
+    protected float spAtk;
+    protected float spDef;
+    protected float speed;
 }
